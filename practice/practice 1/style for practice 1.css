@@ -1,0 +1,40 @@
+/*css*/
+img {
+
+  width:300px;
+  height:150px
+
+}
+
+h1 {
+    font-size: 35px;
+    color: rgb(22,33,22);
+}
+
+h3 {
+    color: rgb(90, 198, 110);
+    font-size: 22px;
+    font-weight: 900;
+}
+
+hr {
+    width: 1000px;
+  color: rgb(45, 131, 112);
+    
+}
+
+  body 
+{
+  height:1vh;
+}
+h2
+{
+  color:rgb(90,198,110);
+  font-weight:900;
+  font-size:22 px;
+}
+h6
+{
+  color :rgb(90,198,110);
+    font-size:1.2rem;
+}
